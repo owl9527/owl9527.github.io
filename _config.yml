@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: owl9527
+title: 乱up24
 subtitle: 别来无恙👋
 description: 道,可道,非常道;名,可名,非常名
 keywords:
@@ -101,4 +101,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:owl9527/owl9527.github.io
+  branch: deploy
